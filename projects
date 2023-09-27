@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang ="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title></title>
+    <link rel="stylesheet" type = "text/css" href= "style.css"/>
+</head>
+<body>
+    <center>
+       <h1>Joshua Boyce Hyland</h1>
+
+       <ul>
+            <li><a   href="index.html">About me</a></li>
+            <li><a href="skills.html">Skills</a></li>
+            <li><a class = "active" href="projects.html">Projects</a></li>
+            <li><a style = "float: right" href="contact.html">Contact</a></li>
+       </ul>
+       <h2> Refactoring car game project </h2>
+       <br><br>
+    
+        <h3> Goal of this work:</h3>
+        <br> <p> 
+            As a part of a college assignment, I worked in a group to refactor a bare bones 2D driving game. 
+            I was responsible for refactoring the base game code into classes and objects. 
+            A focus also being the implementation of the humble object pattern to make sure not too much responsibility is placed on one class alone. 
+            Using the google test framework we also tested various aspects of the base code to ensure the behaviour of the game remained the same throughout the refactoring. 
+            In addition to this I implemented a lap system, which gave the game an end goal while also continuously testing the features along the way to ensure any new ones didn’t invalidate older ones.
+        </p><br>
+
+        <br><h3> Google test framework:</h3>
+        <br> <p> 
+            Google was used used used in this project to   
+        </p>
+    </center>
+       
+  
+</body>
+ </html>
